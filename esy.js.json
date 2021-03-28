@@ -4,8 +4,8 @@
     "@opam/ocamlfind": "1.8.1"
   },
   "resolutions": {
-    "@opam/bucklescript": "anmonteiro/bucklescript#1a00d85a81efb8f006d71a44222d1e3633d63d2e",
-    "ocaml": "anmonteiro/ocaml#75f22c872451c66a4c4aadc43abee55697268a57"
+    "@opam/bucklescript": "melange-re/melange#51ea4de",
+    "ocaml": "melange-re/ocaml#75f22c8"
   },
   "esy": {
     "buildsInSource": "unsafe"
