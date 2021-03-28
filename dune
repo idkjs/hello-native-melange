@@ -1,0 +1,5 @@
+(executable
+ (name exec_js)
+ (libraries sharedlib_js))
+  
+;;;;{BSB GENERATED: NO EDIT;;;;BSB GENERATED: NO EDIT}
