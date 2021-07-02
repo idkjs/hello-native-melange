@@ -40,13 +40,15 @@ to understand for people from the javascript world.
 For bucklescript:
 
 ```bash
-yarn bsb -make-world
+make js
 ```
 
 For native
 
 ```bash
 esy dune build @all
+# or
+make native
 ```
 
 The commands are wrapped in a Makefile and can be called with `make

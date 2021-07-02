@@ -17,7 +17,6 @@
     "module": "es6",
     "in-source": true
   },
-  "refmt": 3,
   "suffix": ".bs.js",
   "generate-merlin": true
 }

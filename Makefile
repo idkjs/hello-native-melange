@@ -19,5 +19,5 @@ native: clean_dune_bsb
 	esy @esy.native dune build @all
 
 clean:
-	esy dune clean
-	yarn bsb -clean-world
+	esy @esy.native dune clean
+	esy @esy.js bsb -clean-world

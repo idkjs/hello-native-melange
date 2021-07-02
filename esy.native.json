@@ -3,7 +3,7 @@
     "buildsInSource": "unsafe"
   },
   "devDependencies": {
-    "@opam/ocamlformat": "0.17.0",
+    "@opam/ocamlformat": "*",
     "ocaml": "4.12.x"
   }
 }
